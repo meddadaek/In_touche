@@ -1,7 +1,7 @@
 # 🌍 Country Explorer ✨  
 *Discover the world in one click!*  
 
-![Globe](https://upload.wikimedia.org/wikipedia/commons/0/04/Earth_globe_icon.png)  
+
 
 ---
 
