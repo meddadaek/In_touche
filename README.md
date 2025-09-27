@@ -37,7 +37,7 @@ Whether you’re:
 Clone this repo and dive in:  
 
 ```bash
-git clone https://github.com/your-username/country-explorer.git
+git clone https://github.com/meddadaek/In_touche.git
 cd country-explorer
 pip install -r requirements.txt
 streamlit run app.py
