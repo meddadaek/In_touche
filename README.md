@@ -28,11 +28,6 @@ Whether you’re:
 
 ---
 
-## 📸 Sneak Peek  
-*(Add a screenshot or GIF of your app here!)*  
-
----
-
 ## 🛠️ Installation & Usage  
 Clone this repo and dive in:  
 
